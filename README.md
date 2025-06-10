@@ -5,7 +5,7 @@ Desarrollador Fullstack con +5 años de experiencia en aplicaciones móviles usa
 🔧 Especializado en Flutter con manejo avanzado de:
 - Gestión de estado: `Bloc`, `Provider`, `GetX`
 - Backend: `Firebase`, `MySQL`, `PHP`, `MongoDB`
-- UI/UX: `Figma`, `Adobe XD`, `Material Design`
+- UI/UX: `Figma`, `Material Design`
 
 Mi visión es siempre crear interfaces amigables, priorizando la eficiencia del producto y su impacto en el usuario final.
 
