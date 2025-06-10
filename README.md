@@ -77,7 +77,7 @@ Fullstack Developer
 
 ---
 
-## 👨🏻‍💻 Dispositivos en uso
+## 👨🏻‍💻 Mis dispositivos
 
 <img src="https://img.shields.io/badge/Lenovo-Legion_5-EB001B?style=for-the-badge&logo=lenovo&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_2025-333333?style=for-the-badge&logo=apple&logoColor=white"/>
