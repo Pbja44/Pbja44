@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Aldo Barreto
 
-Desarrollador móvil y Fullstack con +5 años de experiencia en aplicaciones móviles usando Flutter/Dart. He creado más de 11 apps para diversos sectores (startups, tratamiento de aguas, paquetería, comercio electrónico, pago de servicios, entre otros) manejando todo el ciclo de vida: concepción, diseño, implementación, pruebas, lanzamiento y mantenimiento. 
+Desarrollador Fullstack con +5 años de experiencia en aplicaciones móviles usando Flutter/Dart. He creado más de 11 apps para diversos sectores (startups, tratamiento de aguas, paquetería, comercio electrónico, pago de servicios, entre otros) manejando todo el ciclo de vida: concepción, diseño, implementación, pruebas, lanzamiento y mantenimiento. 
 
 🔧 Especializado en Flutter con manejo avanzado de:
 - Gestión de estado: `Bloc`, `Provider`, `GetX`
