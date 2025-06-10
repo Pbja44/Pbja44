@@ -66,7 +66,7 @@ Mobile Developer por contrato.
 🔹 **SLAJ Technology SAS (Oct. 2021 - Ene. 2023)**  
 Mobile Developer en Android/iOS con Flutter.  
 - Desarrollo de aplicaciones empresariales en sectores como finanzas y tratamiento de aguas.  
-- Trabajé con stack Flutter/Dart, Firebase, MySQL y PHP para sincronización y persistencia de datos.  
+- Trabajé con Flutter/Dart, Firebase, MySQL y PHP para sincronización y persistencia de datos.  
 - Enfoque en ciclos completos de desarrollo: planificación, implementación, pruebas y mantenimiento.
 
 🔹 **Studio Brasuka (Ene. 2021 - Oct. 2021)**  
