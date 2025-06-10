@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Aldo Barreto
 
-🎯 Desarrollador Móvil y Fullstack con +5 años de experiencia creando soluciones digitales usando Flutter, Dart, Angular, PHP y más. He participado en el desarrollo de más de 11 apps móviles para sectores como logística, finanzas, e-commerce, y tratamiento de aguas.
+Desarrollador móvil y Fullstack con +5 años de experiencia en aplicaciones móviles usando Flutter/Dart. He creado más de 11 apps para diversos sectores (startups, tratamiento de aguas, paquetería, comercio electrónico, pago de servicios, entre otros) manejando todo el ciclo de vida: concepción, diseño, implementación, pruebas, lanzamiento y mantenimiento. 
 
 🔧 Especializado en Flutter con manejo avanzado de:
 - Gestión de estado: `Bloc`, `Provider`, `GetX`
 - Backend: `Firebase`, `MySQL`, `PHP`, `MongoDB`
 - UI/UX: `Figma`, `Adobe XD`, `Material Design`
 
-📱 Apasionado por crear experiencias móviles eficientes, estables y escalables.
+Mi visión es siempre crear interfaces amigables, priorizando la eficiencia del producto y su impacto en el usuario final.
 
 ---
 
@@ -48,16 +48,39 @@
 
 ## 💼 Experiencia Destacada
 
-🔹 **VeFlat (2023 - Actualidad)**  
-Apps móviles Flutter en diversos rubros, arquitectura escalable y uso de Firebase y MongoDB.
+🔹 **VeFlat SAS (Mar. 2023 - Actualidad)**  
+Mobile Developer por contrato de proyectos.  
+- Desarrollo de aplicaciones móviles en diversos rubros empresariales.  
+- Implementación de arquitecturas limpias con Flutter utilizando patrones como BLoC, GetX y Provider.  
+- Integración de backend con Firebase (Firestore, Auth) y bases de datos NoSQL como MongoDB.  
+- Prototipado de interfaces con Figma.
+- Testing de funcionalidades clave y despliegue en Google Play/App Store.
 
-🔹 **OTP Optimize Projects**  
-App para logística de paquetería. Integración con Firebase, diseño UX con Adobe XD.
+🔹 **OTP - Optimize Projects (Jul. 2023 - Oct. 2023)**  
+Mobile Developer por contrato.  
+- Desarrollo de app móvil Flutter para optimizar procesos de recepción, almacenamiento y envíos logísticos.  
+- Integración de APIs RESTful y Firebase (Realtime Database y Notificaciones Push).  
+- Manejo del diseño visual desde prototipos en Adobe XD.  
+- Enfoque en usabilidad móvil, rendimiento y estabilidad.
 
-🔹 **SLAJ Technology / Studio Brasuka / Aral 77**  
-Aplicaciones móviles y web con enfoque empresarial, usando Angular, PHP y Flutter.
+🔹 **SLAJ Technology SAS (Oct. 2021 - Ene. 2023)**  
+Mobile Developer en Android/iOS con Flutter.  
+- Desarrollo de aplicaciones empresariales en sectores como finanzas y tratamiento de aguas.  
+- Trabajé con stack Flutter/Dart, Firebase, MySQL y PHP para sincronización y persistencia de datos.  
+- Enfoque en ciclos completos de desarrollo: planificación, implementación, pruebas y mantenimiento.
+
+🔹 **Studio Brasuka (Ene. 2021 - Oct. 2021)**  
+Fullstack Developer 
+- Creación de soluciones e-commerce en Angular y TypeScript.  
+- Implementación de APIs REST y administración de base de datos con MySQL.  
+- Uso de Bitbucket y Trello para gestión de código y tareas.
 
 ---
+
+## 👨🏻‍💻 Dispositivos en uso
+
+<img src="https://img.shields.io/badge/Lenovo-Legion_5-EB001B?style=for-the-badge&logo=lenovo&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_2025-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 ## 📫 Contáctame
 
